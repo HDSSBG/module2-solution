@@ -17,7 +17,7 @@ h1{
 
 .content{
     background-color: gray;
-    border: 3px solid black;
+    border: 1px solid black;
     position: relative;
     margin:2%;
     
@@ -29,8 +29,8 @@ h1{
     float: right;
     width: 150px;
     text-align: center;
-    border-left: 3px solid black;
-    border-bottom: 3px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     padding-top: 2px;
     padding-bottom: 2px;
 }
